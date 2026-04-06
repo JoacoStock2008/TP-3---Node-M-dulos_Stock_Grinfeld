@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "httpsgithub.comJoacoStock2008TP-3---Node-M-dulos.git"
+    "url": "https://github.com/JoacoStock2008/TP-3---Node-M-dulos_Stock_Grinfeld.git"
   },
   "license": "ISC",
   "author": "Joaco Stock y Uriel Grinfeld",
@@ -14,5 +14,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "ej01": "node src/ej01.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.20"
   }
 }
