@@ -1,0 +1,18 @@
+{
+  "name": "tp3_modulos",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "httpsgithub.comJoacoStock2008TP-3---Node-M-dulos.git"
+  },
+  "license": "ISC",
+  "author": "Joaco Stock y Uriel Grinfeld",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "ej01": "node src/ej01.js"
+  }
+}
