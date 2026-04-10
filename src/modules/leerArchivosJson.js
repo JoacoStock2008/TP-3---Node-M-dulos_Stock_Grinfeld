@@ -7,4 +7,4 @@ const leerArchivo = () => {
     console.log(contenidoArchivo)
 }
 
-export {leerArchivo}
+export { leerArchivo }

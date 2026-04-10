@@ -1,6 +1,6 @@
 import dayjs from 'dayjs'
 
-function mostrarDias(){
+function mostrarDias() {
     const fechaCompleta = dayjs();
     let fechaActual = fechaCompleta.format('DD/MM/YYYY') //la función dayjs de la librería trae  la información de la hora actual --> se puede formatear
     console.log(`La fecha del día de hoy es: " + ${fechaActual}`)
